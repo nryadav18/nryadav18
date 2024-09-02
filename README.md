@@ -5,18 +5,18 @@
 <br>
 
 ## 🌐 Socials:
-<p align="center" style={display:'flex'; justify-content:'center';align-items:'center';gap:'80px';}>
-<a href="https://linkedin.com/in/nryadav18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nryadav18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajeswar_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajeswar_2004" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/nryadav_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nryadav_18" height="30" width="40" /></a>
+<p align="left" style={display:'flex'; justify-content:'left';align-items:'left';gap:'80px';}>
+<a href="https://linkedin.com/in/nryadav18" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nryadav18" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rajeswar_2004" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajeswar_2004" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/nryadav_18" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nryadav_18" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nryadav_18" target="_blank">
-    <img style="background-color:white; filter: invert(100%);" align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="nryadav_18" height="30" width="40" />
+    <img style="background-color:white; filter: invert(100%);" align="left" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="nryadav_18" height="30" width="40" />
 </a>
 
 </p>
 
 # 💻 Tech Stack:
-<p align="center">
+<p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
