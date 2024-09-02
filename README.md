@@ -5,7 +5,7 @@
 <br>
 
 ## 🌐 Socials:
-<p align="left" style={display:'flex'; justify-content:'center';align-items:'center';gap:'80px';}>
+<p align="right" style={display:'flex'; justify-content:'center';align-items:'center';gap:'80px';}>
 <a href="https://linkedin.com/in/nryadav18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nryadav18" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajeswar_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajeswar_2004" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nryadav_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nryadav_18" height="30" width="40" /></a>
