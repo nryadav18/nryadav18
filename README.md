@@ -1,11 +1,11 @@
 <h1 align="center" style={font-size:'40px';}> Hi 👋, I'm N R Yadav</h1>
-<h3 align="left">A passionate Full Stack Developer | React & Node.js Enthusiast | Collaborating on Innovative Web Projects | Aspiring Mobile Developer with React Native from India</h3>
+<h3 align="center">A passionate Full Stack Developer | React & Node.js Enthusiast | Collaborating on Innovative Web Projects | Aspiring Mobile Developer with React Native from India</h3>
 <br>
 🔭 I am actively working on Full Stack Web Development using React.js, Node.js, Express.js, and MongoDB.<br>👯 I'm seeking collaboration opportunities on real-time web development projects.<br>🤝 I'm looking to connect with aspiring collaborators and entrepreneurs who are passionate about innovative web development.<br>🌱 Currently, I'm expanding my skill set by learning React Native to enhance my mobile development capabilities.<br>💬 Ask me about collaborating on real-time web development projects.<br>⚡ I love blending the latest technologies like React Native with full-stack development to create seamless web and mobile experiences.
 <br>
 
 ## 🌐 Socials:
-<p align="left" style={display:'flex'; justify-content:'center';align-items:'center';gap:'80px';}>
+<p align="center" style={display:'flex'; justify-content:'center';align-items:'center';gap:'80px';}>
 <a href="https://linkedin.com/in/nryadav18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nryadav18" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajeswar_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajeswar_2004" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nryadav_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nryadav_18" height="30" width="40" /></a>
@@ -16,7 +16,7 @@
 </p>
 
 # 💻 Tech Stack:
-<p align="left">
+<p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
