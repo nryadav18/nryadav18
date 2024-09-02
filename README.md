@@ -4,7 +4,7 @@
 🔭 I am actively working on Full Stack Web Development using React.js, Node.js, Express.js, and MongoDB.<br>👯 I'm seeking collaboration opportunities on real-time web development projects.<br>🤝 I'm looking to connect with aspiring collaborators and entrepreneurs who are passionate about innovative web development.<br>🌱 Currently, I'm expanding my skill set by learning React Native to enhance my mobile development capabilities.<br>💬 Ask me about collaborating on real-time web development projects.<br>⚡ I love blending the latest technologies like React Native with full-stack development to create seamless web and mobile experiences.
 <br>
 
-## 🌐 Socials:
+<p>## 🌐 Socials:</p>
 <p align="right" style={display:'flex'; justify-content:'center';align-items:'center';gap:'80px';}>
 <a href="https://linkedin.com/in/nryadav18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nryadav18" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rajeswar_2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajeswar_2004" height="30" width="40" /></a>
