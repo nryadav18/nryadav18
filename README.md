@@ -4,6 +4,19 @@
 🔭 I am actively working on Full Stack Web Development using React.js, Node.js, Express.js, and MongoDB.<br>👯 I'm seeking collaboration opportunities on real-time web development projects.<br>🤝 I'm looking to connect with aspiring collaborators and entrepreneurs who are passionate about innovative web development.<br>🌱 Currently, I'm expanding my skill set by learning React Native to enhance my mobile development capabilities.<br>💬 Ask me about collaborating on real-time web development projects.<br>⚡ I love blending the latest technologies like React Native with full-stack development to create seamless web and mobile experiences.
 <br><br><br>
 
+<div align="center">
+  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+  <br />
+  <br />
+  <br />
+</div>
+
 ## 🌐 Socials:
 <p align="left" style={display:'flex'; justify-content:'left';align-items:'left';gap:'80px';}>
 <a href="https://linkedin.com/in/nryadav18" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nryadav18" height="30" width="40" /></a>
