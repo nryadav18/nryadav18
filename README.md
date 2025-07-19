@@ -1,5 +1,5 @@
 <h1 align="center" style={font-size:'40px';}> Hi 👋, I'm N R Yadav</h1>
-<h3 align="center">A passionate Full Stack Developer | React, React Native & Node.js Enthusiast | Collaborating on Innovative Web, Mobile Projects | Aspiring Mobile Developer with React Native from India</h3>
+<h3 align="center">A passionate Full Stack Developer | React & React Native & Node.js Enthusiast | Collaborating on Innovative Web, Mobile Projects | Aspiring Mobile Developer with React Native from India</h3>
 <br>
 🔭 I am actively working on Full Stack Web Development using React.js, Node.js, Express.js, and MongoDB and also Mobile Applciation Projects using React Native Expo<br>👯 I'm seeking collaboration opportunities on real-time web development projects.<br>🤝 I'm looking to connect with aspiring collaborators and entrepreneurs who are passionate about innovative web development and mobile application development.<br>🌱 Currently, I'm working on React Native to enhance my mobile development capabilities.<br>💬 Ask me about collaborating on real-time web development projects and mobile application projects.<br>⚡ I love blending the latest technologies like React Native Expo with Full-Stack Development to create seamless Web and Mobile Experiences.
 <br><br><br>
